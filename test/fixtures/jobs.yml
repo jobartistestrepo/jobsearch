@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  company: one
+  title: MyString
+  dateposted: 2019-11-14
+  dateend: 2019-11-14
+
+two:
+  company: two
+  title: MyString
+  dateposted: 2019-11-14
+  dateend: 2019-11-14
